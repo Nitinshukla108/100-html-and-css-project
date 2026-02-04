@@ -141,8 +141,9 @@ body{
 
 .data i{
     font-size: 18px;
-    margin-right: ;
+    margin-right: 6px;
 }
 .data:last-child{
     border-radius: none;
+
 }
